@@ -1,3 +1,4 @@
 'use strict';
-const address = 'Medellin';
-const addressPartner = 'cali'; // no se pueden reasignar constantes
+const partner = "Lola";
+
+console.log("Hola " + partner + ", encantada de conocerte.");
