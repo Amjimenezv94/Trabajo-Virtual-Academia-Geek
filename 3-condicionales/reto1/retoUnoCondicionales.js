@@ -1,2 +1,9 @@
 'use strict';
-document.querySelector('h1').innerHTML = 'Esta página no es compatible con la versión actual de tu navegador. Por favor actualízalo a la versión más reciente.';
+const constante = 'http://placehold.it/300x300';
+var variable = '';
+
+const constante = document.querySelector('.list');
+
+variable = 'http://www.fillmurray.com/300/300';
+
+listElement.innerHTML = constante, variable;
