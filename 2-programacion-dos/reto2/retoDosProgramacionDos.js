@@ -1,3 +1,3 @@
 'use strict';
-const address = 'Medellin';
-const addressPartner = 'cali'; // no se pueden reasignar constantes
+const superWave = document.querySelector('.super-wave');
+superWave.classList.add('.super-wave')
