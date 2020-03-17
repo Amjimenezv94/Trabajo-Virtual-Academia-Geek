@@ -1,3 +1,7 @@
 'use strict';
-const address = 'Medellin';
-const addressPartner = 'cali'; // no se pueden reasignar constantes
+
+
+console.log(2 + 3 + '5'); //55
+
+
+console.log('2' + 3 + 5); //235
