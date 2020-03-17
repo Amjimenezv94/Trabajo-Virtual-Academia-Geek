@@ -1,3 +1,4 @@
 'use strict';
-const address = 'Medellin';
-const addressPartner = 'cali'; // no se pueden reasignar constantes
+var button2 = document.querySelector('.btn2');
+
+button2.classList.add('opacity');

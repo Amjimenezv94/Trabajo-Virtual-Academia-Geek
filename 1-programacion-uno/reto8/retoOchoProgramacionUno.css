@@ -1,0 +1,14 @@
+.btn1 {
+    padding: 6px;
+    background: yellow;
+}
+
+.btn2 {
+    padding: 6px;
+    background: green;
+}
+
+.opacity {
+    background: rgba(77, 196, 77, 0.3);
+    color: rgba(0, 0, 0, 0.2);
+}
